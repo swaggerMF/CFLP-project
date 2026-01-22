@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "P57Br2FP5VmB+Sig9+vfGbB3AntRkmCiD5Ysshpjvxg/G+TgTcyUR8t755vwcmF8hJ/lVEATtH8ws65Uz+jpYw==",
+  "success": true,
+  "projectFilePath": "/home/vlad/cflp/ErasmusEquiv/ErasmusEquiv.csproj",
+  "expectedPackageFiles": [
+    "/home/vlad/.nuget/packages/closedxml/0.105.0/closedxml.0.105.0.nupkg.sha512",
+    "/home/vlad/.nuget/packages/closedxml.parser/2.0.0/closedxml.parser.2.0.0.nupkg.sha512",
+    "/home/vlad/.nuget/packages/documentformat.openxml/3.3.0/documentformat.openxml.3.3.0.nupkg.sha512",
+    "/home/vlad/.nuget/packages/documentformat.openxml.framework/3.3.0/documentformat.openxml.framework.3.3.0.nupkg.sha512",
+    "/home/vlad/.nuget/packages/excelnumberformat/1.1.0/excelnumberformat.1.1.0.nupkg.sha512",
+    "/home/vlad/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/home/vlad/.nuget/packages/microsoft.win32.systemevents/5.0.0/microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "/home/vlad/.nuget/packages/rbush.signed/4.0.0/rbush.signed.4.0.0.nupkg.sha512",
+    "/home/vlad/.nuget/packages/sixlabors.fonts/1.0.0/sixlabors.fonts.1.0.0.nupkg.sha512",
+    "/home/vlad/.nuget/packages/system.drawing.common/5.0.2/system.drawing.common.5.0.2.nupkg.sha512",
+    "/home/vlad/.nuget/packages/system.io.packaging/8.0.1/system.io.packaging.8.0.1.nupkg.sha512",
+    "/home/vlad/.nuget/packages/xceed.document.net/2.0.21359.11160/xceed.document.net.2.0.21359.11160.nupkg.sha512",
+    "/home/vlad/.nuget/packages/xceed.pdf/2.0.21359.11160/xceed.pdf.2.0.21359.11160.nupkg.sha512",
+    "/home/vlad/.nuget/packages/xceed.words.net/2.0.21359.11160/xceed.words.net.2.0.21359.11160.nupkg.sha512",
+    "/home/vlad/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/vlad/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/vlad/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "ErasmusEquiv depends on Xceed.Words.NET (>= 1.9.1) but Xceed.Words.NET 1.9.1 was not found. An approximate best match of Xceed.Words.NET 2.0.21359.11160 was resolved.",
+      "libraryId": "Xceed.Words.NET",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
